@@ -1,0 +1,8 @@
+Status of git -> git status
+Add changes -> git add .
+Commit git -> git commit -m "commit description"
+Current branch -> git branch
+Creating a new branch -> git branch <branch name>
+Switching to the branch -> git check out <branch name>
+Merging branch -> git merge <branch name>
+Deletes a branch -> git branch -d <branch name> (need to be on another branch in order to delete the branch)
